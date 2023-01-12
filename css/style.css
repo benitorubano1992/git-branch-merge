@@ -25,9 +25,13 @@ main p {
     padding: 3rem 0;
 }
 
-footer h3 {
-    text-align: center;
+footer {
     padding: 4rem 0;
     background-color: aqua;
+}
+
+footer h3 {
+    text-align: center;
+
     color: wheat;
 }
