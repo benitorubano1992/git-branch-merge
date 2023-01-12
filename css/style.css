@@ -35,3 +35,9 @@ footer h3 {
 
     color: wheat;
 }
+
+.primary {
+    padding: 2rem 0;
+    background-color: blue;
+    color: white;
+}
