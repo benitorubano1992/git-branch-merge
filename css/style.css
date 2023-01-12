@@ -24,3 +24,14 @@ main p {
     text-align: center;
     padding: 3rem 0;
 }
+
+footer {
+    padding: 4rem 0;
+    background-color: aqua;
+}
+
+footer h3 {
+    text-align: center;
+
+    color: wheat;
+}
