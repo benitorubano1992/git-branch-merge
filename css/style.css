@@ -13,3 +13,7 @@ h1 {
     margin-top: 4rem;
     text-transform: uppercase;
 }
+
+main p {
+    color: red;
+}
